@@ -65,6 +65,9 @@ Let’s take a look at each strategy and see which strategy would fit best for a
 For the sake of simplicity, we used Kubernetes and tested the example against Minikube. Examples of 
 configuration and step-by-step approaches on for each strategy can be found in this git repository.
 
+## Recreate
+The recreate strategy is a dummy deployment which consists of shutting down version A then deploying version B after version A is turned off. This technique implies downtime of the service that depends on both shutdown and boot duration of the application.
+
 
 ## Day 1: Continuous Integration with Jenkins
 ### ***Description***
