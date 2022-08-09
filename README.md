@@ -47,6 +47,25 @@ And continuous deployment is like continuous delivery, except that releases happ
 ![alt text](https://github.com/zm99by/DevOps_BootCamp_CI_CD/blob/main/pic.png?raw=true)
 
 
+### Six Strategies for Application Deployment
+
+There are a variety of techniques to deploy new applications to production, so choosing the right strategy 
+is an important decision, weighing the options in terms of the impact of change on the system, and on the end-users.
+
+In this post, we are going to talk about the following strategies:
+
+**Recreate:** Version A is terminated then version B is rolled out.
+**Ramped (also known as rolling-update or incremental):** Version B is slowly rolled out and replacing version A.
+**Blue/Green:** Version B is released alongside version A, then the traffic is switched to version B.
+**Canary:** Version B is released to a subset of users, then proceed to a full rollout.
+**A/B testing:** Version B is released to a subset of users under specific condition.
+**Shadow:** Version B receives real-world traffic alongside version A and doesn’t impact the response.
+
+Let’s take a look at each strategy and see which strategy would fit best for a particular use case. 
+For the sake of simplicity, we used Kubernetes and tested the example against Minikube. Examples of 
+configuration and step-by-step approaches on for each strategy can be found in this git repository.
+
+
 ## Day 1: Continuous Integration with Jenkins
 ### ***Description***
 
