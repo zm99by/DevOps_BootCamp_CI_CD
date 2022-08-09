@@ -67,7 +67,7 @@ configuration and step-by-step approaches on for each strategy can be found in t
 
 ## Recreate
 The recreate strategy is a dummy deployment which consists of shutting down version A then deploying version B after version A is turned off. This technique implies downtime of the service that depends on both shutdown and boot duration of the application.
-![alt text] (https://github.com/zm99by/DevOps_BootCamp_CI_CD/blob/main/recreate.gif?raw=true)
+![alt text](https://github.com/zm99by/DevOps_BootCamp_CI_CD/blob/main/recreate.gif?raw=true)
 
 
 ## Day 1: Continuous Integration with Jenkins
