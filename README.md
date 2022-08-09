@@ -1,6 +1,6 @@
 #  DevOps BootCamp: CI/CD
 
-## Day 1 Continuous Integration with Jenkins
+## Day 1: Continuous Integration with Jenkins
 ### ***Description***
 
 ```
@@ -11,7 +11,7 @@ The goal of this course is to learn how continuous integration and delivery proc
 
 https://learn.epam.com/detailsPage?id=59bdf234-6664-4f38-a9c5-6689edd6f8d4
 
-## Day 2 Jenkins Fundamentals
+## Day 2: Jenkins Fundamentals
 ### ***Description***
 
 ```
@@ -23,7 +23,7 @@ need to accomplish more complex Jenkins tasks.
 
 **https://learn.acloud.guru/course/e81aa3d0-bd3e-4a49-9bf8-dc4412e74f6c/overview**
 
-## Day 3 Jenkins by Doing
+## Day 3: Jenkins by Doing
 ### ***Description***
 
 ```
