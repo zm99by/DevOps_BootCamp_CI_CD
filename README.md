@@ -31,7 +31,8 @@ You learn faster and better when you learn by doing. With that in mind, this cou
 you to practice core Jenkins Builds through a 100% hands-on experience. To accomplish this, Linux Academy's Training 
 Architects have hand-selected a set of the best Jenkins hands-on labs we have to offer.
 
-Everything in this course will be on one or more Linux servers provisioned with whatever needed through our hands-on lab and Cloud Playground platform.
+Everything in this course will be on one or more Linux servers provisioned with whatever needed through our hands-on lab 
+and Cloud Playground platform.
 
 There's no reason to wait; learn by doing today!
 ```
