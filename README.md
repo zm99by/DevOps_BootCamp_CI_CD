@@ -1,6 +1,8 @@
 #  DevOps BootCamp: CI/CD
-## Day 1 
+
+## Day 1 Continuous Integration with Jenkins
 https://learn.epam.com/detailsPage?id=59bdf234-6664-4f38-a9c5-6689edd6f8d4
+
 ## Day 2 Jenkins Fundamentals
 ```
 In this course, we will cover the fundamentals of Jenkins, including continuous integration/continuous delivery (CI/CD) and continuous deployment. After that, we will move on to installing and configuring Jenkins, and get familiar with the graphical user interface. We will explore jobs and builds as well as build agents. This will give us the foundation we need to accomplish more complex Jenkins tasks.
