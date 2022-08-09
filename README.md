@@ -41,7 +41,9 @@ off the team as there isn't a "release day" anymore. Developers can focus on bui
 work go live minutes after they've finished working on it.
 ```
 
-
+**How the practices relate to each other**
+To put it simply continuous integration is part of both continuous delivery and continuous deployment.
+And continuous deployment is like continuous delivery, except that releases happen automatically.
 
 
 ## Day 1: Continuous Integration with Jenkins
