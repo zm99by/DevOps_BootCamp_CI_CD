@@ -1,6 +1,13 @@
 #  DevOps BootCamp: CI/CD
 
 ## Day 1 Continuous Integration with Jenkins
+### Description
+The course describes the continuous integration and delivery processes. Practical part shows how to setup the Jenkins based CI from scratch.
+
+### Course Goal
+The goal of this course is to learn how continuous integration and delivery processes work.
+
+
 https://learn.epam.com/detailsPage?id=59bdf234-6664-4f38-a9c5-6689edd6f8d4
 
 ## Day 2 Jenkins Fundamentals
