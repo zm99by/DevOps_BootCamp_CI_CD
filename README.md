@@ -88,7 +88,17 @@ Depending on the system taking care of the ramped deployment, you can tweak the 
 - Parallelism, max batch size: Number of concurrent instances to roll out.
 - Max surge: How many instances to add in addition of the current amount.
 - Max unavailable: Number of unavailable instances during the rolling update procedure.
+![alt text](https://github.com/zm99by/DevOps_BootCamp_CI_CD/blob/main/ramped.gif?raw=true)
 
+Pros:
+- Easy to set up.
+- Version is slowly released across instances.
+- Convenient for stateful applications that can handle rebalancing of the data.
+
+Cons:
+- Rollout/rollback can take time.
+- Supporting multiple APIs is hard.
+- No control over traffic.
 
 ## Day 1: Continuous Integration with Jenkins
 ### ***Description***
